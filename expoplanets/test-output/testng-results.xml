@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="PlanetExpo Assignment Test Suite" duration-ms="42886" started-at="2020-02-21T04:09:09Z" finished-at="2020-02-21T04:09:52Z">
+    <groups>
+    </groups>
+    <test name="Planet Expo Test Cases" duration-ms="42886" started-at="2020-02-21T04:09:09Z" finished-at="2020-02-21T04:09:52Z">
+      <class name="com.qa.testcases.ExpoPlanetDocPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.testcases.ExpoPlanetDocPageTest@ae45eb6]" name="setUp" is-config="true" duration-ms="40142" started-at="2020-02-21T09:39:09Z" finished-at="2020-02-21T09:39:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="hotStarPlanetNameTest()[pri:2, instance:com.qa.testcases.ExpoPlanetDocPageTest@ae45eb6]" name="hotStarPlanetNameTest" duration-ms="2726" started-at="2020-02-21T09:39:49Z" finished-at="2020-02-21T09:39:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hotStarPlanetNameTest -->
+      </class> <!-- com.qa.testcases.ExpoPlanetDocPageTest -->
+    </test> <!-- Planet Expo Test Cases -->
+  </suite> <!-- PlanetExpo Assignment Test Suite -->
+</testng-results>
